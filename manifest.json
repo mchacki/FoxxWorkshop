@@ -1,0 +1,21 @@
+{
+  "name": "Workshop",
+  "description": "Application for the ArangoDB workshop on howto: Foxx",
+  "author": "ArangoDB GmbH",
+  "version": "1.0",
+  "license": "Apache License, Version 2.0",
+
+  "contributors": [
+    {
+      "name": "Michael Hackstein",
+      "email": "michael@arangodb.com"
+    }
+  ],
+
+  "controllers": "index.js",
+
+  "files": {
+    "/index.html": "frontend/index.html",
+    "/app.js": "frontend/app.js"
+  }
+}
