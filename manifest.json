@@ -14,8 +14,12 @@
 
   "controllers": "index.js",
 
+  "scripts": {
+    "setup": "scripts/setup.js"
+  },
+
   "files": {
     "/index.html": "frontend/index.html",
-    "/app.js": "frontend/app.js"
+    "/output.js": "frontend/output.js"
   }
 }
